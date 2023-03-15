@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Emovid'
+title = 'Hugo'
 theme = 'ananke'
 scripts = [ "/js/login.js" ]
